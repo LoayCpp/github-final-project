@@ -30,4 +30,4 @@ $$Simple Interest = P \times T \times R$$
 
 > **Note:** This project is part of the final assignment for the Git and GitHub introduction course.
 
-_© 2022 XYZ, Inc._
+_© 2023 XYZ, Inc._
